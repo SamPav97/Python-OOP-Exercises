@@ -1,8 +1,19 @@
 # Python-OOP-Exercises
 Some of the problems I solved in my Python OOP Course
 
-In the “Python OOP” course I learned the principles of object-oriented programming (OOP), how to work with classes and objects, how to use object-oriented modelling, and how to build class hierarchies. I learned to apply principles such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism. I was introduced to the most commonly used design patterns (creational, structural and behavioural design patterns) and the SOLID principles for object-oriented software design. The course also touched on what iterators and generators are and how to use them. Finally, in the course I learned how to use decorators and focused on component testing (writing unit tests) and the concept of Test Driven Development (TDD).
+Experience gained with: Classes and Objects, Object-oriented Modelling, Class Hierarchies. Work with Abstraction, Encapsulation, Inheritance, and Polymorphism; Iterators and Generators, Decorators, Unit-testing, Test Driven Development (TDD).
 
-After having completed a series of general introductory Python courses over the months of February, March, and April 2021, I started my official education with SoftUni by entering their ‘Programming Basics with Python’ course in the summer of the same year. I then continued to their ‘Programming Fundamentals with Python’ course, which started in September and finished in December of 2021. After that I completed their ‘Python Advanced’ course and went on to finish their “Python OOP” course.
+Skills obtained: Application of SOLID principles in OOP.
 
-The ‘Python OOP’ course lasted three months with 3-hour-long classes four times a week and graded homework assignments. Every second class would be an “exercise class” with more sophisticated problems for homework, while every first class was a “lab class” where we got introduced to new concepts through easier problems. Some of the problems I solved you can find above.
+Course info: 2 months (22 Feb - 19 Apr 2022), 3-hour-long classes four times + graded homework. Some of the problems solved are found above.
+
+
+Previous courses: 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
+
+2 - "Programming Basics with Python" by SoftUni. The official beginning of my education with SoftUni. July - September 2021.
+
+3 - "Programming Fundamentals with Python" by SoftUni. September - December 2021.
+
+4 - "Python Advanced" by SoftUni. Jan - Feb 2022.
+
+5 - "Python OOP" by SoftUni. See Above.
