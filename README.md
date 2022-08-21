@@ -20,4 +20,4 @@ Other courses: 1 - "Python for Everybody" by University of Michigan. 5 simple in
 
 6 - "JavaScript Advanced" by SoftUni. May - July 2022. Final Grade: "6/6". 
 
-7 - "JavaScript Applications" by SoftUni. Final Grade: "6/6".
+7 - "JavaScript Applications" by SoftUni. July - August 2022. Final Grade: "6/6".
